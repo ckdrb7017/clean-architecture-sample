@@ -5,7 +5,7 @@ object Dependency {
     }
 
     object AndroidX {
-        const val MATERIAL = "com.google.android.material:material:1.5.0"
+        const val MATERIAL = "com.google.android.material:material:1.7.0"
         const val CONSTRAINT_LAYOUT = "androidx.constraintlayout:constraintlayout:2.1.3"
         const val APP_COMPAT = "androidx.appcompat:appcompat:1.3.1"
     }

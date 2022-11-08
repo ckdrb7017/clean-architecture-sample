@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.clean_architecture_sample"
+    namespace = "com.jakchang.clean_architecture_sample"
     compileSdk = 32
 
     defaultConfig {
-        applicationId = "com.example.clean_architecture_sample"
+        applicationId = "com.jakchang.clean_architecture_sample"
         minSdk = 21
         targetSdk = 32
         versionCode = 1
