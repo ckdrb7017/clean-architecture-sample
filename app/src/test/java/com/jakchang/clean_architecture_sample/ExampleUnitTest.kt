@@ -1,4 +1,4 @@
-package com.example.clean_architecture_sample
+package com.jakchang.clean_architecture_sample
 
 import org.junit.Test
 

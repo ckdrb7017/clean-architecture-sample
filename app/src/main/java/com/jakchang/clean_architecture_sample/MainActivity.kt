@@ -1,7 +1,8 @@
-package com.example.clean_architecture_sample
+package com.jakchang.clean_architecture_sample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.clean_architecture_sample.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,4 +1,4 @@
-package com.example.clean_architecture_sample
+package com.jakchang.clean_architecture_sample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
