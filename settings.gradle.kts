@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "clean-architecture-sample"
 include (":app")
+include(":data")
