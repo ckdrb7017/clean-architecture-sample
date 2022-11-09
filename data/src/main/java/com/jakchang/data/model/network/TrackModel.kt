@@ -1,4 +1,4 @@
-package com.jakchang.data.model.database
+package com.jakchang.data.model.network
 
 data class TrackListRequest(
     val term: String,
